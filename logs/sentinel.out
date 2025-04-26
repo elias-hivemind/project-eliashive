@@ -1,0 +1,22 @@
+[main 4ae05c2] Auto-sync: 2025-04-26 04:34:09
+ 19 files changed, 5304 insertions(+)
+ create mode 100755 ELIAS_HIVE_SENTINEL_BUILD.sh
+ create mode 100644 api/api.log
+ create mode 100644 api/elias_api_server.py
+ create mode 100644 api_bridge/api_server.py
+ create mode 100755 brainfeed.sh
+ create mode 100755 elias_hive_controller.sh
+ create mode 100644 logs/api_bridge.log
+ create mode 100644 logs/brainfeed_20250426.log
+ create mode 100644 logs/controller_20250426.log
+ create mode 100644 logs/heartbeat.log
+ create mode 100644 logs/sentinel.out
+ create mode 100644 memory_core/insights/ai_frameworks_20250426.txt
+ create mode 100644 memory_core/insights/ai_subfields_20250426.txt
+ create mode 100644 memory_core/insights/deprecated_20250426.txt
+ create mode 100644 memory_core/insights/language_trends_20250426.txt
+ create mode 100644 memory_core/insights/top_ai_repos_20250426.txt
+ create mode 100755 nova_elias_heartbeat.sh
+2025/04/26 04:34:10 CRITICAL: Failed to create file system for "gdrive:EliasHive-Drive-Sync": drive: failed when making oauth client: error opening service account credentials file: open /home/ec2-user/credentials/mirrorone-456514-bb12c443749a.json: no such file or directory
+To https://github.com/elias-hivemind/project-eliashive.git
+   2e6361d..4ae05c2  main -> main

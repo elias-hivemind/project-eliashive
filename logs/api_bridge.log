@@ -1409,3 +1409,528 @@ Port 5050 is in use by another program. Either identify and stop that program, o
 Address already in use
 Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
 [2025-04-26 04:34:06] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:11] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:11] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:16] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:16] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:21] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:22] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:27] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:27] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:32] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:32] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:37] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:37] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:42] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:42] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:47] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:48] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:53] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:53] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:34:58] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:34:58] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:03] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:03] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:08] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:08] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:13] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:14] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:19] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:19] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:24] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:24] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:29] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:29] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:34] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:34] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:39] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:40] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:45] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:45] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:50] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:50] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:35:55] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:35:55] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:00] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:00] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:05] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:05] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:10] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:11] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:16] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:16] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:21] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:21] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:26] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:26] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:31] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:31] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:36] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:37] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:42] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:42] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:47] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:47] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:52] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:52] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:36:57] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:36:57] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:02] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:03] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:08] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:08] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:13] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:13] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:18] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:18] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:23] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:23] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:28] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:29] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:34] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:34] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:39] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:39] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:44] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:44] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:49] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:49] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:54] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:37:54] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:37:59] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:00] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:05] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:05] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:10] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:10] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:15] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:15] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:20] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:20] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:25] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:26] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:31] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:31] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:36] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:36] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:41] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:41] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:46] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:46] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:51] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:52] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:38:57] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:38:57] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:02] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:02] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:07] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:07] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:12] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:12] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:17] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:18] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:23] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:23] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:28] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:28] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:33] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:33] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:38] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:38] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:43] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:44] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:49] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:49] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:54] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:54] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:39:59] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:39:59] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:04] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:04] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:09] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:09] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:14] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:15] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:20] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:20] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:25] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:25] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:30] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:30] [API-Bridge] Flask server crashed — restarting
+[2025-04-26 04:40:35] [API-Bridge] Starting Flask server...
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'api_server'
+ * Debug mode: off
+Address already in use
+Port 5050 is in use by another program. Either identify and stop that program, or start the server with a different port.
+[2025-04-26 04:40:35] [API-Bridge] Flask server crashed — restarting
