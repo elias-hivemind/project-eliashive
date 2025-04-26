@@ -153,3 +153,12 @@ To https://github.com/elias-hivemind/project-eliashive.git
 To https://github.com/elias-hivemind/project-eliashive.git
    b542a4e..410dddb  main -> main
 2025/04/26 19:34:12 CRITICAL: Failed to create file system for "gdrive:EliasHive-Drive-Sync": couldn't find root directory ID: Get "https://www.googleapis.com/drive/v3/files/root?alt=json&fields=id&prettyPrint=false&supportsAllDrives=true": private key should be a PEM or plain PKCS1 or PKCS8; parse error: asn1: structure error: tags don't match (16 vs {class:0 tag:13 length:67 isCompound:false}) {optional:false explicit:false application:false private:false defaultValue:<nil> tag:<nil> stringType:0 timeType:0 set:false omitEmpty:false} pkcs1PrivateKey @2
+[main 1177b13] Auto-sync: 2025-04-26 19:34:21
+ 10 files changed, 18956 insertions(+)
+ create mode 100644 github_intel/trending_20250426_183429.json
+ create mode 100644 github_intel/trending_20250426_190430.json
+ create mode 100644 memory_core/trending_20250426_183429.json
+ create mode 100644 memory_core/trending_20250426_190430.json
+To https://github.com/elias-hivemind/project-eliashive.git
+   410dddb..1177b13  main -> main
+2025/04/26 20:34:12 CRITICAL: Failed to create file system for "gdrive:EliasHive-Drive-Sync": couldn't find root directory ID: Get "https://www.googleapis.com/drive/v3/files/root?alt=json&fields=id&prettyPrint=false&supportsAllDrives=true": private key should be a PEM or plain PKCS1 or PKCS8; parse error: asn1: structure error: tags don't match (16 vs {class:0 tag:13 length:67 isCompound:false}) {optional:false explicit:false application:false private:false defaultValue:<nil> tag:<nil> stringType:0 timeType:0 set:false omitEmpty:false} pkcs1PrivateKey @2
