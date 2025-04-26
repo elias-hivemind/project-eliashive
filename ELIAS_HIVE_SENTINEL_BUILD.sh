@@ -1,0 +1,86 @@
+#!/bin/bash
+
+# Elias Hive Final Sentinel Mode
+LOG_DIR="$HOME/eliashive_repo/logs"
+MEMORY_DIR="$HOME/eliashive_repo/memory_core"
+GITHUB_INTEL_DIR="$HOME/eliashive_repo/github_intel"
+SERVICE_ACCOUNT_FILE="$HOME/credentials/mirrorone-456514-bb12c443749a.json"
+LOCAL_SYNC_DIR="$HOME/eliashive_repo"
+REMOTE_NAME="gdrive"
+REMOTE_FOLDER="EliasHive-Drive-Sync"
+GITHUB_REPO="https://github.com/elias-hivemind/project-eliashive.git"
+
+mkdir -p "$LOG_DIR" "$MEMORY_DIR" "$GITHUB_INTEL_DIR"
+
+guardian_loop() {
+    while true; do
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] [Guardian] Checking system health..." >> "$LOG_DIR/sentinel.log"
+        sleep 300
+    done
+}
+
+intel_harvest_loop() {
+    while true; do
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] [IntelHarvester] Scraping GitHub trending..." >> "$LOG_DIR/sentinel.log"
+        curl -s "https://api.github.com/search/repositories?q=stars:>1000&sort=stars" > "$GITHUB_INTEL_DIR/trending_$(date '+%Y%m%d_%H%M%S').json" || echo "[$(date '+%Y-%m-%d %H:%M:%S')] [IntelHarvester] Fetch failed" >> "$LOG_DIR/sentinel.log"
+        sleep 1800
+    done
+}
+
+github_sync_loop() {
+    while true; do
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] [GitHubSync] Syncing to GitHub..." >> "$LOG_DIR/sentinel.log"
+        cd "$LOCAL_SYNC_DIR"
+        git add .
+        git commit -m "Auto-sync: $(date '+%Y-%m-%d %H:%M:%S')" || true
+        git push origin main || echo "[$(date '+%Y-%m-%d %H:%M:%S')] [GitHubSync] Push failed" >> "$LOG_DIR/sentinel.log"
+        sleep 3600
+    done
+}
+
+drive_sync_loop() {
+    mkdir -p ~/.config/rclone
+    cat > ~/.config/rclone/rclone.conf <<EOC
+[$REMOTE_NAME]
+type = drive
+scope = drive
+service_account_file = $SERVICE_ACCOUNT_FILE
+EOC
+
+    while true; do
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] [DriveSync] Uploading to Google Drive..." >> "$LOG_DIR/sentinel.log"
+        rclone mkdir $REMOTE_NAME:$REMOTE_FOLDER || true
+        rclone sync "$LOCAL_SYNC_DIR" "$REMOTE_NAME:$REMOTE_FOLDER" --drive-server-side-across-configs >> "$LOG_DIR/sentinel.log" 2>&1
+        sleep 3600
+    done
+}
+
+memory_core_loop() {
+    while true; do
+        echo "[$(date '+%Y-%m-%d %H:%M:%S')] [MemoryCore] Saving knowledge..." >> "$LOG_DIR/sentinel.log"
+        cp "$LOG_DIR/sentinel.log" "$MEMORY_DIR/$(date '+%Y%m%d')_sentinel.log" || true
+        cp "$GITHUB_INTEL_DIR"/*.json "$MEMORY_DIR/" || true
+        sleep 3600
+    done
+}
+
+guardian_loop &
+intel_harvest_loop &
+github_sync_loop &
+drive_sync_loop &
+memory_core_loop &
+
+while true; do
+    for pid in $(jobs -p); do
+        if ! kill -0 $pid 2>/dev/null; then
+            echo "[$(date '+%Y-%m-%d %H:%M:%S')] [Sentinel] WARNING: Restarting dead process $pid" >> "$LOG_DIR/sentinel.log"
+            guardian_loop &
+            intel_harvest_loop &
+            github_sync_loop &
+            drive_sync_loop &
+            memory_core_loop &
+            break
+        fi
+    done
+    sleep 60
+done
