@@ -20,3 +20,4 @@
 2025/04/26 04:34:10 CRITICAL: Failed to create file system for "gdrive:EliasHive-Drive-Sync": drive: failed when making oauth client: error opening service account credentials file: open /home/ec2-user/credentials/mirrorone-456514-bb12c443749a.json: no such file or directory
 To https://github.com/elias-hivemind/project-eliashive.git
    2e6361d..4ae05c2  main -> main
+2025/04/26 05:34:10 CRITICAL: Failed to create file system for "gdrive:EliasHive-Drive-Sync": couldn't find root directory ID: Get "https://www.googleapis.com/drive/v3/files/root?alt=json&fields=id&prettyPrint=false&supportsAllDrives=true": private key should be a PEM or plain PKCS1 or PKCS8; parse error: asn1: structure error: tags don't match (16 vs {class:0 tag:13 length:67 isCompound:false}) {optional:false explicit:false application:false private:false defaultValue:<nil> tag:<nil> stringType:0 timeType:0 set:false omitEmpty:false} pkcs1PrivateKey @2
