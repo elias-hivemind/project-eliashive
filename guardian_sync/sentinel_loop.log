@@ -278,3 +278,5 @@ ModuleNotFoundError: No module named 'flask'
 /bin/sh: 1: guardian_run: not found
 /bin/sh: 1: /opt/guardian/agents/self_heal_orchestrator.py: not found
 /bin/sh: 1: /opt/guardian/agents/self_heal_orchestrator.py: not found
+/bin/sh: 1: /opt/guardian/agents/self_heal_orchestrator.py: not found
+/bin/sh: 1: guardian_run: not found
