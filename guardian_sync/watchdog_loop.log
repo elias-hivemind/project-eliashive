@@ -1,0 +1,15 @@
+[main 96d259a] 🛡 Nova Watchdog Sync - Wed Jun 11 18:54:04 UTC 2025
+ 11 files changed, 961 insertions(+)
+ create mode 100644 guardian_sync/agent.log
+ create mode 100644 guardian_sync/api_response.log
+ create mode 100644 guardian_sync/drive_sync.log
+ create mode 100644 guardian_sync/errors.log
+ create mode 100644 guardian_sync/full_install.log
+ create mode 100644 guardian_sync/gmism_loop.log
+ create mode 100644 guardian_sync/nova_ui.log
+ create mode 100644 guardian_sync/sentinel_loop.log
+ create mode 100644 guardian_sync/sys_state.log
+ create mode 100644 guardian_sync/sys_usage.log
+ create mode 100644 guardian_sync/watchdog_loop.log
+To https://github.com/elias-hivemind/project-eliashive.git
+   0aca467..96d259a  main -> main
