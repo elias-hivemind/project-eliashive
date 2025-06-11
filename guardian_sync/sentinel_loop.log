@@ -102,3 +102,7 @@ SyntaxError: unexpected character after line continuation character
     python3 -m venv "$VENV"
                ^^^^
 SyntaxError: invalid syntax
+  File "/opt/guardian/agents/self_heal_orchestrator.py", line 76
+    python3 -m venv "$VENV"
+               ^^^^
+SyntaxError: invalid syntax
