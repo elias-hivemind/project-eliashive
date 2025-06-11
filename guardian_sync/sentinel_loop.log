@@ -115,3 +115,8 @@ Traceback (most recent call last):
   File "/opt/guardian/agents/self_heal_orchestrator.py", line 3, in <module>
     from flask import Flask, render_template, jsonify, request
 ModuleNotFoundError: No module named 'flask'
+/bin/sh: 1: guardian_run: not found
+Traceback (most recent call last):
+  File "/opt/guardian/agents/self_heal_orchestrator.py", line 3, in <module>
+    from flask import Flask, render_template, jsonify, request
+ModuleNotFoundError: No module named 'flask'
