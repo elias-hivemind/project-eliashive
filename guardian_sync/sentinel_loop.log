@@ -106,3 +106,8 @@ SyntaxError: invalid syntax
     python3 -m venv "$VENV"
                ^^^^
 SyntaxError: invalid syntax
+/bin/sh: 1: guardian_run: not found
+  File "/opt/guardian/agents/self_heal_orchestrator.py", line 76
+    python3 -m venv "$VENV"
+               ^^^^
+SyntaxError: invalid syntax
