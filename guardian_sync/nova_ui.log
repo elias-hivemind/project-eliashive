@@ -8,3 +8,7 @@ nohup: ignoring input
 [33mPress CTRL+C to quit[0m
 127.0.0.1 - - [11/Jun/2025 20:11:25] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [11/Jun/2025 20:11:25] "[33mGET /dashboard/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Jun/2025 20:15:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/Jun/2025 20:15:02] "[33mGET /dashboard/ HTTP/1.0[0m" 404 -
+127.0.0.1 - - [11/Jun/2025 20:15:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [11/Jun/2025 20:15:25] "[33mGET /dashboard/ HTTP/1.0[0m" 404 -
