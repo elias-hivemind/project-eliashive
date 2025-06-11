@@ -9,3 +9,4 @@ Reason: authError, Message: Invalid Credentials
 [✓] Sentinel Daemon Installed. Runs every 15m.
 [i] No actionable fix found.
 /bin/sh: 1: guardian_run: not found
+/bin/sh: 1: guardian_run: not found
