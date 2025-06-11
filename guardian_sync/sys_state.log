@@ -1,0 +1,12 @@
+ 18:54:01 up 1 day, 22:26,  7 users,  load average: 0.07, 0.06, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       827Mi        27Gi       1.1Mi       3.8Gi        30Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  1.1M  3.2G   1% /run
+/dev/sda1       387G  6.3G  381G   2% /
+tmpfs            16G     0   16G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M   64M  756M   8% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           3.2G   12K  3.2G   1% /run/user/0

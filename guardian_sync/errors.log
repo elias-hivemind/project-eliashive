@@ -1,0 +1,6 @@
+Jun 09 20:27:59 srv853601 systemd[1]: Failed to start cloud-final.service - Execute cloud user/final scripts.
+Jun 09 21:37:01 srv853601 cron[878]: Error: bad username; while reading /etc/crontab
+Jun 09 21:38:01 srv853601 cron[878]: Error: bad username; while reading /etc/crontab
+Jun 10 23:10:50 srv853601 cron[79622]: Error: bad username; while reading /etc/crontab
+Jun 10 23:29:19 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+Jun 10 23:29:20 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI Server.

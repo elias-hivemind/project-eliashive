@@ -1,0 +1,10 @@
+[✓] Agent daemonized: runs every 15m
+[✓] Frontend terminal injected at http://31.97.135.100:5050
+[✓] GitHub sync complete.
+2025/06/11 18:37:15 Failed to create file system for "gdrive:guardian_backups": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+[✓] Drive sync complete.
+[i] No actionable fix found.
+[✓] Sentinel Daemon Installed. Runs every 15m.
+[i] No actionable fix found.

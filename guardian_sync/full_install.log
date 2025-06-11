@@ -1,0 +1,38 @@
+🚀 Starting Nova Guardian Full Stack Deployment...
+🔧 Phase 1/6 - System Preparation
+Hit:1 http://mirror.math.princeton.edu/pub/ubuntu noble-backports InRelease
+Hit:2 http://mirror.math.princeton.edu/pub/ubuntu noble InRelease
+Hit:3 http://mirror.math.princeton.edu/pub/ubuntu noble-security InRelease
+Hit:4 http://mirror.math.princeton.edu/pub/ubuntu noble-updates InRelease
+Hit:5 https://repository.monarx.com/repository/ubuntu-noble noble InRelease
+Hit:6 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:7 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:8 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:9 http://archive.ubuntu.com/ubuntu noble-security InRelease
+Hit:10 http://mirror.arizona.edu/ubuntu noble-backports InRelease
+Hit:11 http://packages.cloud.google.com/apt cloud-sdk InRelease
+Hit:12 http://mirror.arizona.edu/ubuntu noble InRelease
+Hit:13 http://mirror.arizona.edu/ubuntu noble-security InRelease
+Hit:14 http://mirror.arizona.edu/ubuntu noble-updates InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.12.3-0ubuntu2).
+python3 set to manually installed.
+python3-venv is already the newest version (3.12.3-0ubuntu2).
+git is already the newest version (1:2.43.0-1ubuntu7.2).
+python3-pip is already the newest version (24.0+dfsg-1ubuntu1.1).
+0 upgraded, 0 newly installed, 0 to remove and 18 not upgraded.
+ensurepip is disabled in Debian/Ubuntu for the system python.
+
+Python modules for the system python are usually handled by dpkg and apt-get.
+
+    apt install python3-<module name>
+
+Install the python3-pip package to use pip itself.  Using pip together
+with the system python might have unexpected results for any system installed
+module, so use it on your own risk, or make sure to only use it in virtual
+environments.
+
+❌ System setup failed
