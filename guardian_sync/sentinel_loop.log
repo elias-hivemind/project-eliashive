@@ -36,3 +36,7 @@ SyntaxError: unexpected character after line continuation character
     FLASK_APP = f\"\"\"from flask import Flask, render_template, send_file, request, jsonify
                   ^
 SyntaxError: unexpected character after line continuation character
+  File "/opt/guardian/agents/self_heal_orchestrator.py", line 41
+    FLASK_APP = f\"\"\"from flask import Flask, render_template, send_file, request, jsonify
+                  ^
+SyntaxError: unexpected character after line continuation character
