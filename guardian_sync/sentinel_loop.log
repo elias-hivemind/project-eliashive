@@ -323,3 +323,7 @@ ModuleNotFoundError: No module named 'flask'
 /bin/sh: 1: guardian_run: not found
 /bin/sh: 1: /opt/guardian/agents/self_heal_orchestrator.py: not found
 /bin/sh: 1: /opt/guardian/agents/self_heal_orchestrator.py: not found
+Traceback (most recent call last):
+  File "/opt/guardian/agents/self_heal_orchestrator.py", line 6, in <module>
+    import openai
+ModuleNotFoundError: No module named 'openai'
