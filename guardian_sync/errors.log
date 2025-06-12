@@ -1,4 +1,3 @@
-Jun 12 10:18:04 srv853601 systemd[1]: Failed to start nova-ui.service - Nova UI (Gunicorn).
 Jun 12 10:18:49 srv853601 cron[4488]: Error: bad username; while reading /etc/crontab
 Jun 12 10:20:48 srv853601 cron[6292]: Error: bad username; while reading /etc/crontab
 Jun 12 10:22:48 srv853601 cron[7569]: Error: bad username; while reading /etc/crontab
@@ -248,3 +247,4 @@ Jun 12 18:24:41 srv853601 cron[378371]: Error: bad username; while reading /etc/
 Jun 12 18:26:42 srv853601 cron[380504]: Error: bad username; while reading /etc/crontab
 Jun 12 18:28:46 srv853601 cron[382618]: Error: bad username; while reading /etc/crontab
 Jun 12 18:30:43 srv853601 cron[384827]: Error: bad username; while reading /etc/crontab
+Jun 12 18:32:46 srv853601 cron[386932]: Error: bad username; while reading /etc/crontab
