@@ -20,3 +20,8 @@ Jun 12 07:09:03 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guard
 Jun 12 07:09:18 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
 Jun 12 07:19:26 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
 Jun 12 09:23:01 srv853601 cron[308639]: Error: bad username; while reading /etc/crontab
+-- Boot e557b2d2659244b6853f0c83cd4b5a0c --
+Jun 12 10:15:07 srv853601 cron[847]: Error: bad username; while reading /etc/crontab
+Jun 12 10:15:08 srv853601 systemd[1]: Failed to start guardian-llm.service - Guardian LLM Watchdog.
+Jun 12 10:15:09 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
+Jun 12 10:15:38 srv853601 systemd[1]: Failed to start cloud-final.service - Execute cloud user/final scripts.
