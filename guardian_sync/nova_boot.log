@@ -271,3 +271,8 @@ Using cached sniffio-1.3.1-py3-none-any.whl (10 kB)
 Installing collected packages: typing-extensions, sniffio, idna, h11, click, annotated-types, uvicorn, typing-inspection, pydantic-core, anyio, starlette, pydantic, fastapi
 Successfully installed annotated-types-0.7.0 anyio-4.9.0 click-8.2.1 fastapi-0.115.12 h11-0.16.0 idna-3.10 pydantic-2.11.5 pydantic-core-2.33.2 sniffio-1.3.1 starlette-0.46.2 typing-extensions-4.14.0 typing-inspection-0.4.1 uvicorn-0.34.3
 ✅ Nova Core deployed: http://31.97.135.100:3000
+Command '@reboot' not found, did you mean:
+  command 'reboot' from deb systemd-sysv (255.4-1ubuntu8.6)
+  command 'reboot' from deb finit-sysv (4.2-1)
+  command 'reboot' from deb molly-guard (0.8.3)
+Try: apt install <deb name>
