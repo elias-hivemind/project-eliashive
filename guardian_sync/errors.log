@@ -80,3 +80,4 @@ Jun 12 11:56:48 srv853601 cron[72870]: Error: bad username; while reading /etc/c
 Jun 12 11:58:47 srv853601 cron[74147]: Error: bad username; while reading /etc/crontab
 Jun 12 12:00:10 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
 Jun 12 12:00:48 srv853601 cron[77196]: Error: bad username; while reading /etc/crontab
+Jun 12 12:02:49 srv853601 cron[78472]: Error: bad username; while reading /etc/crontab
