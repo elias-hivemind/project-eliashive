@@ -9,3 +9,4 @@ Jun 12 01:01:23 srv853601 cron[308280]: Error: bad username; while reading /etc/
 Jun 12 01:02:54 srv853601 cron[308422]: Error: bad username; while reading /etc/crontab
 Jun 12 01:04:02 srv853601 cron[308506]: Error: bad username; while reading /etc/crontab
 Jun 12 01:05:45 srv853601 cron[308639]: Error: bad username; while reading /etc/crontab
+Jun 12 06:35:17 srv853601 systemd[1]: Failed to start guardian-llm.service - Guardian LLM Watchdog.
