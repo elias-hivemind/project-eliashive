@@ -4738,3 +4738,43 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  31179.5 avail Mem
      12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
      13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
      14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+top - 01:45:02 up 2 days,  5:17,  5 users,  load average: 0.16, 0.14, 0.09
+Tasks: 188 total,   1 running, 187 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.9 us,  2.4 sy,  0.0 ni, 90.6 id,  0.0 wa,  0.0 hi,  0.0 si,  1.2 st 
+MiB Mem :  32094.9 total,  27525.7 free,    895.2 used,   4138.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  31199.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4698 root      28   8 1311208  36872  13824 S   9.1   0.1   6:01.70 monarx-+
+ 296284 root      20   0   42352  29936   8576 S   9.1   0.1   0:00.15 gunicorn
+ 313441 root      20   0   12364   5504   3456 R   9.1   0.0   0:00.01 top
+      1 root      20   0   22600  13696   9600 S   0.0   0.0   2:33.29 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.09 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+top - 01:46:01 up 2 days,  5:18,  5 users,  load average: 0.06, 0.11, 0.09
+Tasks: 188 total,   2 running, 186 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.5 us,  3.5 sy,  0.0 ni, 86.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :  32094.9 total,  27496.4 free,    924.5 used,   4138.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  31170.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 313487 root      20   0   52460  40000  13824 R 100.0   0.1   0:00.22 self_he+
+ 313493 root      20   0   12364   5504   3456 R  10.0   0.0   0:00.01 top
+      1 root      20   0   22600  13824   9600 S   0.0   0.0   2:33.38 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.09 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
