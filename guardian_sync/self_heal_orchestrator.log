@@ -2612,3 +2612,8 @@ If you like Certbot, please consider supporting our work by:
 2025-06-12 22:59:24 [INFO] Deploy attempt 3/3
 2025-06-12 23:00:02 [ERROR] Smoke test failed: http://127.0.0.1:7681
 2025-06-12 23:00:02 [INFO] Deploy attempt 1/3
+2025-06-12 23:00:42 [INFO] Deploy succeeded
+2025-06-12 23:01:57 [ERROR] Deploy attempt 3 failed: Command '['/root/deploy_all.sh']' returned non-zero exit status 100.
+2025-06-12 23:02:02 [ERROR] Smoke test failed: http://127.0.0.1:7681
+2025-06-12 23:02:02 [INFO] Deploy attempt 1/3
+2025-06-12 23:02:02 [CRITICAL] All deploy attempts failed
