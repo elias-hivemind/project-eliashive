@@ -74,3 +74,110 @@ cp: cannot stat 'server.py': No such file or directory
 ✅ ALL DONE: Synced, Vaulted, and Self-Healing.
 ❌ Watchdog failed.
 ✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+✅ Vault ready.
+✅ Vault ready.
+✅ Vault ready.
+Reinitialized existing Git repository in /opt/nova-core/.git/
+✅ Vault ready.
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+error: remote origin already exists.
+error: remote origin already exists.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+⚠️ GitHub push failed. Check token.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+☁️ Syncing to Google Drive...
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   __pycache__/server.cpython-312.pyc
+	modified:   templates/dashboard.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	__pycache__/app.cpython-312.pyc
+	api/
+	app.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   __pycache__/server.cpython-312.pyc
+	modified:   templates/dashboard.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	__pycache__/app.cpython-312.pyc
+	api/
+	app.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+2025/06/12 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+2025/06/12 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+2025/06/12 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2025/06/12 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+⚠️ Drive sync failed.
+cp: cannot stat 'server.py': No such file or directory
+cp: cannot stat 'server.py': No such file or directory
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
