@@ -1432,3 +1432,4 @@ Reason: authError, Message: Invalid Credentials
 More details:
 Reason: authError, Message: Invalid Credentials
 ❌ [$(date)] Drive Sync Failed
+2025/06/12 09:30:01 Failed to create file system for "remote:mlinzi-backups/guardian.log": didn't find section in config file

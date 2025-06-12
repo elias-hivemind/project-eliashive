@@ -1,6 +1,6 @@
- 09:28:01 up 2 days, 13:00,  4 users,  load average: 0.01, 0.06, 0.08
+ 09:30:01 up 2 days, 13:02,  4 users,  load average: 0.09, 0.07, 0.08
                total        used        free      shared  buff/cache   available
-Mem:            31Gi       958Mi        26Gi       1.1Mi       4.4Gi        30Gi
+Mem:            31Gi       1.1Gi        26Gi       1.1Mi       4.4Gi        30Gi
 Swap:             0B          0B          0B
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           3.2G  1.1M  3.2G   1% /run
@@ -10,3 +10,16 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/sda16      881M   64M  756M   8% /boot
 /dev/sda15      105M  6.2M   99M   6% /boot/efi
 tmpfs           3.2G   12K  3.2G   1% /run/user/0
+overlay         387G  7.3G  380G   2% /var/lib/docker/overlay2/8d9f6acd327ef2a4661620f931960e6a68106b1214f3e36acd75a65575fde03e/merged
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi       1.1Gi        26Gi       1.1Mi       4.4Gi        30Gi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  1.1M  3.2G   1% /run
+/dev/sda1       387G  7.3G  380G   2% /
+tmpfs            16G     0   16G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M   64M  756M   8% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           3.2G   12K  3.2G   1% /run/user/0
+overlay         387G  7.3G  380G   2% /var/lib/docker/overlay2/8d9f6acd327ef2a4661620f931960e6a68106b1214f3e36acd75a65575fde03e/merged
