@@ -14258,3 +14258,23 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  31079.5 avail Mem
      12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
      13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
      14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+top - 15:50:01 up  5:35,  0 user,  load average: 0.11, 0.19, 0.18
+Tasks: 186 total,   3 running, 183 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.6 us,  4.7 sy,  0.0 ni, 67.4 id,  0.0 wa,  0.0 hi,  1.2 si,  1.2 st 
+MiB Mem :  32094.9 total,  29293.7 free,   1015.1 used,   2250.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  31079.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 235962 root      20   0   51304  39232  13824 R 100.0   0.1   0:00.23 self_he+
+ 235966 root      20   0   59616  36784  14848 R 100.0   0.1   0:00.23 aws
+     17 root      20   0       0      0      0 I   9.1   0.0   0:03.93 rcu_pre+
+ 235981 root      20   0   12364   5504   3456 R   9.1   0.0   0:00.01 top
+      1 root      20   0   22640  14080   9600 S   0.0   0.0   1:04.53 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.03 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
