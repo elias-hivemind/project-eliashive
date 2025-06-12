@@ -447,3 +447,6 @@ ModuleNotFoundError: No module named 'openai'
 /bin/sh: 1: guardian_run: not found
 /bin/sh: 1: guardian_run: not found
 /bin/sh: 1: guardian_run: not found
+/bin/sh: 1: guardian_run: not found
+1/10 ▶️ Waiting for DNS to point mlinzi.io → 31.97.135.100
+   …waiting for DNS… (1/30)
