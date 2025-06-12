@@ -194,3 +194,4 @@ Jun 12 15:42:49 srv853601 cron[231992]: Error: bad username; while reading /etc/
 Jun 12 15:44:48 srv853601 cron[233266]: Error: bad username; while reading /etc/crontab
 Jun 12 15:46:48 srv853601 cron[234573]: Error: bad username; while reading /etc/crontab
 Jun 12 15:48:48 srv853601 cron[235849]: Error: bad username; while reading /etc/crontab
+Jun 12 15:50:48 srv853601 cron[237166]: Error: bad username; while reading /etc/crontab
