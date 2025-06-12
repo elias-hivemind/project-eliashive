@@ -18,3 +18,4 @@ Jun 12 06:57:16 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guard
 Jun 12 07:00:50 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
 Jun 12 07:09:03 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
 Jun 12 07:09:18 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
+Jun 12 07:19:26 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
