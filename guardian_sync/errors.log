@@ -25,3 +25,4 @@ Jun 12 10:15:07 srv853601 cron[847]: Error: bad username; while reading /etc/cro
 Jun 12 10:15:08 srv853601 systemd[1]: Failed to start guardian-llm.service - Guardian LLM Watchdog.
 Jun 12 10:15:09 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
 Jun 12 10:15:38 srv853601 systemd[1]: Failed to start cloud-final.service - Execute cloud user/final scripts.
+Jun 12 10:16:05 srv853601 systemd[1]: Failed to start nova-ui.service - Nova UI (Gunicorn).
