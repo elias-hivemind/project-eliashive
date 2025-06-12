@@ -1605,3 +1605,6 @@ If you like Certbot, please consider supporting our work by:
 2025-06-12 12:22:48 [INFO] Deploy succeeded
 2025-06-12 12:24:01 [ERROR] Smoke test failed: http://127.0.0.1:7681
 2025-06-12 12:24:01 [INFO] Deploy attempt 1/3
+2025-06-12 12:24:47 [INFO] Deploy succeeded
+2025-06-12 12:26:02 [ERROR] Smoke test failed: http://127.0.0.1:7681
+2025-06-12 12:26:02 [INFO] Deploy attempt 1/3
