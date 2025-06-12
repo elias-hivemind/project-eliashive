@@ -1482,3 +1482,4 @@ Reason: authError, Message: Invalid Credentials
 -bash: */10: No such file or directory
 2025/06/12 17:20:01 Failed to create file system for "remote:mlinzi-backups/guardian.log": didn't find section in config file
 2025/06/12 17:30:01 Failed to create file system for "remote:mlinzi-backups/guardian.log": didn't find section in config file
+2025/06/12 17:40:01 Failed to create file system for "remote:mlinzi-backups/guardian.log": didn't find section in config file
