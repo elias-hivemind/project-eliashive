@@ -1132,3 +1132,13 @@ Reason: authError, Message: Invalid Credentials
 More details:
 Reason: authError, Message: Invalid Credentials
 ❌ [$(date)] Drive Sync Failed
+🔁 [$(date)] Drive Sync Started
+🔁 [$(date)] Drive Sync Started
+2025/06/12 03:30:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+❌ [$(date)] Drive Sync Failed
+2025/06/12 03:30:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+❌ [$(date)] Drive Sync Failed
