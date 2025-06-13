@@ -21118,3 +21118,43 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30615.0 avail Mem
       7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
      12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+top - 02:00:01 up 15:45, 15 users,  load average: 0.37, 0.59, 0.62
+Tasks: 265 total,   8 running, 257 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 56.6 us, 28.3 sy,  0.0 ni,  2.0 id,  0.0 wa,  0.0 hi,  0.0 si, 13.1 st 
+MiB Mem :  32094.9 total,  27607.9 free,   1539.7 used,   3412.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30555.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1091823 root      20   0   46412  28856  12032 R 100.0   0.1   0:00.25 python3
+1091880 root      20   0   43540  29556  15360 R 100.0   0.1   0:00.16 python3
+1091891 root      20   0   44844  30716  15744 S 100.0   0.1   0:00.16 python3
+1091715 root      20   0   45848  32972  12928 R  92.9   0.1   0:00.29 self_he+
+1091735 root      20   0   48264  27932  11392 R  92.9   0.1   0:00.25 aws
+1091765 root      20   0   79340  16396   7040 R  92.9   0.0   0:00.25 apt
+1091760 root      20   0   17340   8848   7296 S  21.4   0.0   0:00.09 apt-get
+     48 root      20   0       0      0      0 S   7.1   0.0   0:01.31 ksoftir+
+     54 root      20   0       0      0      0 S   7.1   0.0   0:01.27 ksoftir+
+1091788 root      20   0    7336   2432   2304 S   7.1   0.0   0:00.02 find
+1091821 root      20   0   12332   5504   3456 R   7.1   0.0   0:00.02 top
+1091847 root      20   0   12332   5504   3456 R   7.1   0.0   0:00.01 top
+1091895 _apt      20   0   23288   9856   8960 S   7.1   0.0   0:00.01 http
+top - 02:00:01 up 15:45, 15 users,  load average: 0.37, 0.59, 0.62
+Tasks: 265 total,   8 running, 257 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 50.0 us, 32.3 sy,  0.0 ni,  3.1 id,  0.0 wa,  0.0 hi,  0.0 si, 14.6 st 
+MiB Mem :  32094.9 total,  27686.1 free,   1548.2 used,   3326.0 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30546.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1091823 root      20   0   46548  29368  12032 R 100.0   0.1   0:00.26 python3
+1091880 root      20   0   43540  29556  15360 R 100.0   0.1   0:00.18 python3
+1091715 root      20   0   46872  33484  12928 R  91.7   0.1   0:00.31 self_he+
+1091735 root      20   0   48636  28316  11392 R  91.7   0.1   0:00.26 aws
+1091765 root      20   0   79340  16652   7040 R  91.7   0.1   0:00.26 apt
+1091891 root      20   0   46932  30716  15744 S  91.7   0.1   0:00.16 python3
+1091760 root      20   0   17340   8848   7296 R  16.7   0.0   0:00.09 apt-get
+     54 root      20   0       0      0      0 S   8.3   0.0   0:01.27 ksoftir+
+1091788 root      20   0    7336   2432   2304 S   8.3   0.0   0:00.02 find
+1091847 root      20   0   12332   5504   3456 R   8.3   0.0   0:00.02 top
+1091895 _apt      20   0   23288   9856   8960 S   8.3   0.0   0:00.01 http
+1091901 _apt      20   0   26980  14592   9728 S   8.3   0.0   0:00.01 https
+      1 root      20   0   22860  13952   9472 S   0.0   0.0   3:26.20 systemd
