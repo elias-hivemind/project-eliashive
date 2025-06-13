@@ -1,6 +1,6 @@
- 01:56:01 up 15:41, 15 users,  load average: 0.40, 0.61, 0.63
+ 01:58:01 up 15:43, 15 users,  load average: 0.41, 0.58, 0.62
                total        used        free      shared  buff/cache   available
-Mem:            31Gi       1.4Gi        26Gi       1.5Mi       3.3Gi        29Gi
+Mem:            31Gi       1.4Gi        27Gi       1.5Mi       3.3Gi        29Gi
 Swap:             0B          0B          0B
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs           3.2G  1.2M  3.2G   1% /run
