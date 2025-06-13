@@ -426,3 +426,387 @@ cp: cannot stat 'server.py': No such file or directory
 ❌ Watchdog failed.
 ✅ ALL DONE: Synced, Vaulted, and Self-Healing.
 0: command not found
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+✅ Vault ready.
+🧠 Starting Nova Full Auto-Sync Sentinel...
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+✅ Vault ready.
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+✅ Vault ready.
+🧠 Starting Nova Full Auto-Sync Sentinel...
+🧠 Starting Nova Full Auto-Sync Sentinel...
+✅ Vault ready.
+Initialized empty Git repository in /opt/nova-core/.git/
+✅ Vault ready.
+🧠 Starting Nova Full Auto-Sync Sentinel...
+✅ Vault ready.
+✅ Vault ready.
+✅ Vault ready.
+Reinitialized existing Git repository in /opt/nova-core/.git/
+✅ Vault ready.
+✅ Vault ready.
+✅ Vault ready.
+✅ Vault ready.
+✅ Vault ready.
+error: could not lock config file /opt/nova-core/.git/config: File exists
+fatal: could not set 'core.repositoryformatversion' to '0'
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+error: remote origin already exists.
+Reinitialized existing Git repository in /opt/nova-core/.git/
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+Reinitialized existing Git repository in /opt/nova-core/.git/
+error: could not lock config file .git/config: File exists
+fatal: could not set 'remote.origin.fetch' to '+refs/heads/*:refs/remotes/origin/*'
+Reinitialized existing Git repository in /opt/nova-core/.git/
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+error: could not lock config file .git/config: File exists
+fatal: could not set 'remote.origin.url' to 'https://elias-hivemind:ghp_mlinziXNovaGuardianAI9876543210@github.com/elias-hivemind/project-eliashive.git'
+error: could not lock config file .git/config: File exists
+fatal: could not set 'remote.origin.fetch' to '+refs/heads/*:refs/remotes/origin/*'
+Reinitialized existing Git repository in /opt/nova-core/.git/
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+error: could not lock config file /opt/nova-core/.git/config: File exists
+fatal: could not set 'core.bare' to 'false'
+error: src refspec master does not match any
+error: failed to push some refs to 'origin'
+⚠️ GitHub push failed. Check token.
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+error: could not lock config file .git/config: File exists
+fatal: could not set 'remote.origin.url' to 'https://elias-hivemind:ghp_mlinziXNovaGuardianAI9876543210@github.com/elias-hivemind/project-eliashive.git'
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: cannot lock ref 'HEAD': reference already exists
+fatal: cannot lock ref 'HEAD': reference already exists
+☁️ Syncing to Google Drive...
+fatal: cannot lock ref 'HEAD': reference already exists
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+fatal: Unable to create '/opt/nova-core/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 77aa840] 🛡️ Auto-backup from Guardian Fri Jun 13 00:00:01 UTC 2025
+ 1 file changed, 1 insertion(+), 74 deletions(-)
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	__pycache__/
+	app.py
+	frontend/
+	nova_runtime.sh
+	nova_voice_loop.py
+	remote/
+	requirements.txt
+	templates/
+	venv/
+	voice_config.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ GitHub push failed. Check token.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ Drive sync failed.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+☁️ Syncing to Google Drive...
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+☁️ Syncing to Google Drive...
+☁️ Syncing to Google Drive...
+☁️ Syncing to Google Drive...
+⚠️ GitHub push failed. Check token.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": didn't find section in config file
+☁️ Syncing to Google Drive...
+☁️ Syncing to Google Drive...
+⚠️ Drive sync failed.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+cp: cannot stat 'server.py': No such file or directory
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+cp: cannot stat 'server.py': No such file or directory
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+2025/06/13 00:00:01 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+cp: cannot stat 'server.py': No such file or directory
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+cp: cannot stat 'server.py': No such file or directory
+⚠️ Drive sync failed.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/elias-hivemind/project-eliashive.git/'
+⚠️ Drive sync failed.
+⚠️ Drive sync failed.
+⚠️ GitHub push failed. Check token.
+☁️ Syncing to Google Drive...
+⚠️ Drive sync failed.
+cp: cannot stat 'server.py': No such file or directory
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+cp: cannot stat 'server.py': No such file or directory
+⚠️ Drive sync failed.
+cp: cannot stat 'server.py': No such file or directory
+cp: cannot stat 'server.py': No such file or directory
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+cp: cannot stat 'server.py': No such file or directory
+cp: cannot stat 'server.py': No such file or directory
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+⚠️ Drive sync failed.
+2025/06/13 00:00:02 Failed to create file system for "gdrive:nova_backups/": couldn't find root directory ID: googleapi: Error 401: Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+More details:
+Reason: authError, Message: Invalid Credentials
+cp: cannot stat 'server.py': No such file or directory
+⚠️ Drive sync failed.
+cp: cannot stat 'server.py': No such file or directory
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Restoration pending...
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
+❌ Watchdog failed.
+✅ ALL DONE: Synced, Vaulted, and Self-Healing.
