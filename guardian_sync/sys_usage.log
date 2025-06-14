@@ -39518,3 +39518,23 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30767.6 avail Mem
  178781 _apt      20   0   23292   9728   8704 S   7.7   0.0   0:00.01 http
  178797 root      20   0   18284   9856   6400 R   7.7   0.0   0:00.01 python3
       2 root      20   0       0      0      0 S   0.0   0.0   0:00.30 kthreadd
+top - 05:02:02 up 1 day, 18:47,  6 users,  load average: 0.60, 0.98, 1.01
+Tasks: 234 total,   4 running, 230 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 37.5 us, 14.8 sy,  0.0 ni, 47.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :  32094.9 total,  25114.8 free,   1312.0 used,   6159.2 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30782.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 190079 root      20   0   52460  40124  13824 R 100.0   0.1   0:00.26 self_he+
+ 190071 root      20   0  109136  88304  21376 R 100.0   0.3   0:00.87 python
+ 190098 root      20   0   46932  33024  17920 S  81.8   0.1   0:00.13 python3
+ 190102 _apt      20   0   27112  15360  10496 S  18.2   0.0   0:00.02 https
+    767 systemd+  20   0   21772  12800  10624 S   9.1   0.0   0:35.47 systemd+
+ 190089 root      20   0   12332   5504   3456 R   9.1   0.0   0:00.01 top
+ 190107 _apt      20   0   16084   4100   3584 S   9.1   0.0   0:00.01 gpgv
+      1 root      20   0   22924  14208   9600 S   0.0   0.0  11:19.52 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.30 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
