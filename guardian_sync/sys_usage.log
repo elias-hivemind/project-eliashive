@@ -36078,3 +36078,43 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30887.6 avail Mem
       6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
       9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+top - 00:00:02 up 1 day, 13:45,  1 user,  load average: 0.56, 0.80, 0.90
+Tasks: 381 total,  12 running, 368 sleeping,   0 stopped,   1 zombie
+%Cpu(s):  5.5 us,  7.7 sy,  0.0 ni,  0.5 id,  0.0 wa,  0.0 hi,  0.5 si, 85.9 st 
+MiB Mem :  32094.9 total,  26221.6 free,   1268.0 used,   5070.3 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30826.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3750261 root      20   0  105156  83696  21120 R  92.0   0.3   0:01.63 python
+3750766 root      20   0   43404  29172  15232 R  76.0   0.1   0:00.29 python3
+3750723 root      20   0   40060  22072  11904 R  72.0   0.1   0:00.37 python3
+3750566 root      20   0   79392  10896   7296 S  68.0   0.0   0:00.23 apt-get
+3750840 root      20   0   44664  30332  15488 D  56.0   0.1   0:00.14 python3
+3750336 root      20   0   28320  17264   8704 R  48.0   0.1   0:00.47 self_he+
+3750714 root      20   0   43172  25404  10880 R  48.0   0.1   0:00.19 aws
+3702413 root      20   0       0      0      0 I  40.0   0.0   0:00.26 kworker+
+3750807 root      20   0 1729176  30080  24064 R  24.0   0.1   0:00.06 rclone
+      1 root      20   0   22716  13952   9600 S  20.0   0.0   9:46.94 systemd
+3750849 root      20   0  105652  17268   8448 R  16.0   0.1   0:00.04 git-rem+
+    767 systemd+  20   0   21772  12800  10624 S   4.0   0.0   0:31.54 systemd+
+3701575 root      20   0       0      0      0 I   4.0   0.0   0:00.29 kworker+
+top - 00:00:02 up 1 day, 13:45,  1 user,  load average: 0.56, 0.80, 0.90
+Tasks: 413 total,  18 running, 393 sleeping,   0 stopped,   2 zombie
+%Cpu(s): 39.7 us, 30.6 sy,  0.0 ni,  0.5 id,  0.0 wa,  0.0 hi,  1.0 si, 28.2 st 
+MiB Mem :  32094.9 total,  26224.8 free,   1381.4 used,   4953.7 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.  30713.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+3750261 root      20   0  109136  88176  21376 R  85.0   0.3   0:01.79 python
+3751007 root      20   0   26980  16000   8320 R  30.0   0.0   0:00.06 python3
+3750975 root      20   0  105652  17772   8960 S  25.0   0.1   0:00.05 git-rem+
+3750930 root      20   0  105624  18292   9472 S  20.0   0.1   0:00.04 git-rem+
+3750942 root      20   0  105624  18288   9472 S  20.0   0.1   0:00.04 git-rem+
+3750945 root      20   0  105624  17524   8832 S  20.0   0.1   0:00.04 git-rem+
+3750951 root      20   0  105624  17860   9088 S  20.0   0.1   0:00.04 git-rem+
+3750723 root      20   0   40200  22840  11904 R  15.0   0.1   0:00.40 python3
+3750840 root      20   0   46932  33020  17920 S  15.0   0.1   0:00.17 python3
+3750872 root      20   0  103756  15360   8448 R  15.0   0.0   0:00.04 git-rem+
+3750932 root      20   0  101664  13056   8192 R  15.0   0.0   0:00.03 git-rem+
+3750955 root      20   0 1802652  30592  24576 R  15.0   0.1   0:00.03 rclone
+3750336 root      20   0   35872  20336   9984 R  10.0   0.1   0:00.49 self_he+
