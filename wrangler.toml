@@ -1,8 +1,6 @@
-name = "mcp-worker"
-main = "server.js"
+name = "mcp-claude-dashboard"
+main = "index.js"
 compatibility_date = "2025-06-15"
-account_id = "2bcf0e18a12345678f9c0e1c12345abc"
-workers_dev = true
+
 [env.production]
-route = "https://mlinzi.io/context"
-zone_id = "8d12345678901234567abcdef890abcde"
+name = "mcp-claude-dashboard"

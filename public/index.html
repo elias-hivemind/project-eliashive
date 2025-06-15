@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Claude MCP Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body style="font-family: sans-serif; background: #111; color: white; text-align: center;">
+  <h1>🧠 Claude Memory Dashboard</h1>
+  <canvas id="logChart" width="800" height="400"></canvas>
+  <script>
+    fetch('/data')
+      .then(res => res.json())
+      .then(data => {
+        const labels = data.map(d => d.t);
+        const queries = data.map(d => d.q.length);
+        const ctx = document.getElementById('logChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: labels,
+            datasets: [{
+              label: 'Prompt Length Over Time',
+              data: queries,
+              borderColor: 'rgba(0,255,180,1)',
+              borderWidth: 2
+            }]
+          },
+          options: { scales: { y: { beginAtZero: true } } }
+        });
+      });
+  </script>
+</body>
+</html>
