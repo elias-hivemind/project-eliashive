@@ -1,23 +1,3 @@
-Jun 15 03:10:44 srv853601 cron[3098614]: Error: bad username; while reading /etc/crontab
-Jun 15 03:12:43 srv853601 cron[3101040]: Error: bad username; while reading /etc/crontab
-Jun 15 03:14:43 srv853601 cron[3103449]: Error: bad username; while reading /etc/crontab
-Jun 15 03:16:43 srv853601 cron[3105920]: Error: bad username; while reading /etc/crontab
-Jun 15 03:18:43 srv853601 cron[3108330]: Error: bad username; while reading /etc/crontab
-Jun 15 03:20:43 srv853601 cron[3119834]: Error: bad username; while reading /etc/crontab
-Jun 15 03:22:43 srv853601 cron[3122242]: Error: bad username; while reading /etc/crontab
-Jun 15 03:24:43 srv853601 cron[3124652]: Error: bad username; while reading /etc/crontab
-Jun 15 03:26:43 srv853601 cron[3127111]: Error: bad username; while reading /etc/crontab
-Jun 15 03:28:43 srv853601 cron[3129516]: Error: bad username; while reading /etc/crontab
-Jun 15 03:30:43 srv853601 cron[3140632]: Error: bad username; while reading /etc/crontab
-Jun 15 03:32:43 srv853601 cron[3143033]: Error: bad username; while reading /etc/crontab
-Jun 15 03:34:43 srv853601 cron[3145428]: Error: bad username; while reading /etc/crontab
-Jun 15 03:36:44 srv853601 cron[3147870]: Error: bad username; while reading /etc/crontab
-Jun 15 03:38:43 srv853601 cron[3150267]: Error: bad username; while reading /etc/crontab
-Jun 15 03:40:43 srv853601 cron[3161777]: Error: bad username; while reading /etc/crontab
-Jun 15 03:42:43 srv853601 cron[3164187]: Error: bad username; while reading /etc/crontab
-Jun 15 03:44:43 srv853601 cron[3166599]: Error: bad username; while reading /etc/crontab
-Jun 15 03:46:43 srv853601 cron[3169082]: Error: bad username; while reading /etc/crontab
-Jun 15 03:48:43 srv853601 cron[3171489]: Error: bad username; while reading /etc/crontab
 Jun 15 03:50:43 srv853601 cron[3182502]: Error: bad username; while reading /etc/crontab
 Jun 15 03:52:43 srv853601 cron[3184915]: Error: bad username; while reading /etc/crontab
 Jun 15 03:54:43 srv853601 cron[3187311]: Error: bad username; while reading /etc/crontab
@@ -248,3 +228,24 @@ Jun 15 11:20:42 srv853601 cron[4130989]: Error: bad username; while reading /etc
 Jun 15 11:22:42 srv853601 cron[4133392]: Error: bad username; while reading /etc/crontab
 Jun 15 11:24:43 srv853601 cron[4135811]: Error: bad username; while reading /etc/crontab
 Jun 15 11:26:43 srv853601 cron[4138282]: Error: bad username; while reading /etc/crontab
+Jun 15 11:28:43 srv853601 cron[4140691]: Error: bad username; while reading /etc/crontab
+Jun 15 11:38:54 srv853601 login[2789]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+Jun 15 11:38:54 srv853601 login[2789]: PAM adding faulty module: pam_lastlog.so
+Jun 15 11:40:27 srv853601 login[4152103]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+Jun 15 11:40:27 srv853601 login[4152103]: PAM adding faulty module: pam_lastlog.so
+-- Boot 335d06e9aa0247f3a55f9f43a64446fc --
+Jun 15 11:46:04 srv853601 cron[858]: Error: bad username; while reading /etc/crontab
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start caddy.service - Caddy.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start guardian-llm.service - Guardian LLM Watchdog.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start nova-master-sync.service - Nova Drone Listener & Sync Controller.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start nova.service - Nova AI Core Service.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start uploader.service - MLINZI Flask Uploader.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start uvicorn.service - Uvicorn Server for Nova Backend.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start dashboard.service - MLINZI Dashboard.
+Jun 15 11:46:04 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
+Jun 15 11:46:05 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+Jun 15 11:46:12 srv853601 systemd[1]: Failed to start nova-api.service - Nova REST API + Fusion Brain.
+Jun 15 11:46:15 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+Jun 15 11:46:21 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+Jun 15 11:46:41 srv853601 systemd[1]: Failed to start cloud-final.service - Cloud-init: Final Stage.
+Jun 15 11:47:51 srv853601 agetty[1072]: checkname failed: Operation not permitted

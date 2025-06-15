@@ -8309,3 +8309,28 @@ If you like Certbot, please consider supporting our work by:
 2025-06-15 11:26:43 [INFO] Deploy succeeded
 2025-06-15 11:28:02 [ERROR] Smoke test failed: http://127.0.0.1:7681
 2025-06-15 11:28:02 [INFO] Deploy attempt 1/3
+2025-06-15 11:28:43 [INFO] Deploy succeeded
+2025-06-15 11:32:15 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:32:15 [INFO] Deploy attempt 1/3
+2025-06-15 11:34:05 [ERROR] Deploy attempt 1 failed: Command '['/root/deploy_all.sh']' returned non-zero exit status 100.
+2025-06-15 11:34:10 [INFO] Deploy attempt 2/3
+2025-06-15 11:34:18 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:34:18 [INFO] Deploy attempt 1/3
+2025-06-15 11:36:17 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:36:17 [INFO] Deploy attempt 1/3
+2025-06-15 11:38:15 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:38:15 [INFO] Deploy attempt 1/3
+2025-06-15 11:40:14 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:40:14 [INFO] Deploy attempt 1/3
+2025-06-15 11:41:42 [ERROR] Deploy attempt 2 failed: Command '['/root/deploy_all.sh']' returned non-zero exit status 100.
+2025-06-15 11:41:47 [INFO] Deploy attempt 3/3
+2025-06-15 11:41:50 [ERROR] Deploy attempt 1 failed: Command '['/root/deploy_all.sh']' returned non-zero exit status 100.
+2025-06-15 11:41:55 [INFO] Deploy attempt 2/3
+2025-06-15 11:42:17 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:42:17 [INFO] Deploy attempt 1/3
+2025-06-15 11:43:49 [ERROR] Deploy attempt 1 failed: Command '['/root/deploy_all.sh']' returned non-zero exit status 100.
+2025-06-15 11:43:54 [INFO] Deploy attempt 2/3
+2025-06-15 11:44:16 [ERROR] Smoke test failed: http://127.0.0.1:5050/status
+2025-06-15 11:44:16 [INFO] Deploy attempt 1/3
+2025-06-15 11:48:03 [ERROR] Smoke test failed: http://127.0.0.1:7681
+2025-06-15 11:48:03 [INFO] Deploy attempt 1/3
