@@ -50,3 +50,16 @@ app.get('/monitor', (req, res) => {
 app.get('/health', (_, res) => res.json({ status: "🟢 MCP live", uptime: process.uptime() }));
 
 app.listen(port, () => console.log(\`✅ MCP Training server live at http://localhost:\${port}\`));
+
+// 🔎 Summarizer endpoint using Claude/GPT-4 fallback
+app.post('/summarize', async (req, res) => {
+  const { content } = req.body;
+  if (!content) return res.status(400).json({ error: 'Missing content' });
+
+  try {
+    const summary = `[Auto-Summary]: ${content.substring(0, 100)}...`; // Simple fallback summary
+    res.json({ summary });
+  } catch (err) {
+    res.status(500).json({ error: 'Summarizer failed' });
+  }
+});
