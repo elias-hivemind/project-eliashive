@@ -1,16 +1,3 @@
-Jun 15 04:42:43 srv853601 cron[3290029]: Error: bad username; while reading /etc/crontab
-Jun 15 04:44:43 srv853601 cron[3292432]: Error: bad username; while reading /etc/crontab
-Jun 15 04:46:43 srv853601 cron[3294909]: Error: bad username; while reading /etc/crontab
-Jun 15 04:48:43 srv853601 cron[3297327]: Error: bad username; while reading /etc/crontab
-Jun 15 04:50:43 srv853601 cron[3308347]: Error: bad username; while reading /etc/crontab
-Jun 15 04:52:43 srv853601 cron[3310767]: Error: bad username; while reading /etc/crontab
-Jun 15 04:54:43 srv853601 cron[3313163]: Error: bad username; while reading /etc/crontab
-Jun 15 04:56:43 srv853601 cron[3315603]: Error: bad username; while reading /etc/crontab
-Jun 15 04:58:43 srv853601 cron[3318009]: Error: bad username; while reading /etc/crontab
-Jun 15 05:00:43 srv853601 cron[3329633]: Error: bad username; while reading /etc/crontab
-Jun 15 05:02:44 srv853601 cron[3332064]: Error: bad username; while reading /etc/crontab
-Jun 15 05:04:43 srv853601 cron[3334464]: Error: bad username; while reading /etc/crontab
-Jun 15 05:06:43 srv853601 cron[3336905]: Error: bad username; while reading /etc/crontab
 Jun 15 05:08:43 srv853601 cron[3339308]: Error: bad username; while reading /etc/crontab
 Jun 15 05:10:43 srv853601 cron[3350319]: Error: bad username; while reading /etc/crontab
 Jun 15 05:12:43 srv853601 cron[3352727]: Error: bad username; while reading /etc/crontab
@@ -250,3 +237,17 @@ Jun 15 11:58:32 srv853601 systemd[1]: Failed to start nova-api.service - Nova RE
 Jun 15 11:58:35 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
 Jun 15 11:58:41 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
 Jun 15 12:00:15 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+-- Boot b023cbea96d344d491b8f3c779402c81 --
+Jun 15 12:03:14 srv853601 cron[858]: Error: bad username; while reading /etc/crontab
+Jun 15 12:03:14 srv853601 systemd[1]: Failed to start caddy.service - Caddy.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start guardian-llm.service - Guardian LLM Watchdog.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start nova-master-sync.service - Nova Drone Listener & Sync Controller.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start nova.service - Nova AI Core Service.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start uvicorn.service - Uvicorn Server for Nova Backend.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start dashboard.service - MLINZI Dashboard.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start mlinzi-api.service - Guardian UI Flask App.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start nova-voice.service - Nova Realtime Voice Agent.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start uploader.service - MLINZI Flask Uploader.
+Jun 15 12:03:15 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
+Jun 15 12:03:16 srv853601 systemd[1]: Failed to start nova-ui.service - Nova UI (Gunicorn).
+Jun 15 12:03:26 srv853601 systemd[1]: Failed to start nova-core.service - Nova Core FastAPI.
