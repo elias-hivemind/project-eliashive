@@ -3,64 +3,45 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Guardian AI Control - mlinzi.io</title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <title>🛡️ Guardian AI Control</title>
   <style>
     body {
-      margin: 0;
-      background: #0f0f0f;
+      background: linear-gradient(135deg, #1d1f21, #2d2f33);
       color: white;
-      font-family: 'Orbitron', sans-serif;
+      font-family: 'Segoe UI', sans-serif;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       height: 100vh;
+      margin: 0;
+      text-align: center;
     }
     h1 {
-      font-size: 2.5rem;
+      font-size: 2.5em;
       margin-bottom: 10px;
-      animation: pulse 2s infinite;
-    }
-    p {
-      color: #aaa;
-    }
-    .glow {
-      color: #00ffe5;
-      text-shadow: 0 0 10px #00ffe5, 0 0 20px #00ffe5, 0 0 30px #00ffe5;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 0.9; }
-      50% { transform: scale(1.02); opacity: 1; }
-      100% { transform: scale(1); opacity: 0.9; }
-    }
-    .buttons {
-      margin-top: 20px;
     }
     .btn {
-      background: #00ffe5;
-      color: black;
-      border: none;
-      padding: 12px 24px;
       margin: 10px;
-      font-size: 1rem;
-      border-radius: 8px;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 6px;
+      font-size: 1em;
       cursor: pointer;
-      transition: 0.3s ease;
+      background: #28a745;
+      color: white;
+      transition: transform 0.2s;
     }
     .btn:hover {
-      background: white;
-      color: black;
+      transform: scale(1.05);
     }
   </style>
 </head>
 <body>
-  <h1 class="glow">Guardian AI Control Center</h1>
-  <p>Welcome to the live deployment of <strong>mlinzi.io</strong></p>
-  <div class="buttons">
-    <a href="/claude" class="btn">Talk to Claude</a>
-    <a href="/gemini" class="btn">Talk to Gemini</a>
-    <a href="/gpt" class="btn">Talk to GPT-4</a>
-  </div>
+  <h1>🛡️ Welcome to Guardian Control — mlinzi.io</h1>
+  <p>Status: <span id="status">Live</span></p>
+  <button class="btn" onclick="window.open('/claude')">Talk to Claude</button>
+  <button class="btn" onclick="window.open('/gemini')">Talk to Gemini</button>
+  <button class="btn" onclick="window.open('/gpt')">Talk to GPT-4</button>
 </body>
 </html>
