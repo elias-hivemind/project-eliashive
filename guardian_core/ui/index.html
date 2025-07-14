@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Guardian AI Control - mlinzi.io</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background: #0f0f0f;
+      color: white;
+      font-family: 'Orbitron', sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      animation: pulse 2s infinite;
+    }
+    p {
+      color: #aaa;
+    }
+    .glow {
+      color: #00ffe5;
+      text-shadow: 0 0 10px #00ffe5, 0 0 20px #00ffe5, 0 0 30px #00ffe5;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.9; }
+      50% { transform: scale(1.02); opacity: 1; }
+      100% { transform: scale(1); opacity: 0.9; }
+    }
+    .buttons {
+      margin-top: 20px;
+    }
+    .btn {
+      background: #00ffe5;
+      color: black;
+      border: none;
+      padding: 12px 24px;
+      margin: 10px;
+      font-size: 1rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+    .btn:hover {
+      background: white;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="glow">Guardian AI Control Center</h1>
+  <p>Welcome to the live deployment of <strong>mlinzi.io</strong></p>
+  <div class="buttons">
+    <a href="/claude" class="btn">Talk to Claude</a>
+    <a href="/gemini" class="btn">Talk to Gemini</a>
+    <a href="/gpt" class="btn">Talk to GPT-4</a>
+  </div>
+</body>
+</html>
