@@ -1,0 +1,14 @@
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Ubuntu/Linux temp files
+.DS_Store
+*.swp
+*~
+.cache/
+__pycache__/
